@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Models\Book Appointment Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Models\Login Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Models\MainDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Models\Manage Patient forn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Models\Register form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Models\ReportsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Models\Show Profile Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Models\View Appointment Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
