@@ -57,22 +57,7 @@ namespace ClinicAppointmentProject.Models
                 }
             }
         }
-        //    LoadPatientInfo(); }
-        //      private void LoadPatientInfo()
-        //{
-        //    using (ClinicContext db = new ClinicContext())
-        //    {
-        //        // تحميل المرضى المرتبطين بالمستخدم
-        //        var patients = db.Patients
-        //            .Where(p => p.UserId == loggedInUserId)
-        //            .Select(p => new { p.Id, p.Name })
-        //            .ToList();
-
-        //        cmb_patient.DataSource = patients;
-        //        cmb_patient.DisplayMember = "Name";
-        //        cmb_patient.ValueMember = "Id";
-        //    }
-        //}
+     
 
 
         private void btn_book_Click(object sender, EventArgs e)
@@ -88,14 +73,14 @@ namespace ClinicAppointmentProject.Models
 
                 using (ClinicContext db = new ClinicContext())
                 {
-                    // Create new appointment
+                   
                     var appointment = new Appointment
                     {
                         PatientId = Convert.ToInt32(cmb_patient.SelectedValue),
                         AppointmentDate = dtpDate.Value,
                         Doctor = txt_doctor.Text,
-                        Status = "notCompleted", // Default status
-                        IsCompleted = false // Default completion status
+                        Status = "notCompleted",
+                        IsCompleted = false 
                     };
 
                     db.Appointments.Add(appointment);

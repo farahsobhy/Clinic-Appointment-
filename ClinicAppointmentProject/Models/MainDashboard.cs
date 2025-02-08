@@ -21,8 +21,8 @@ namespace ClinicAppointmentProject.Models
         public MainDashboard(string username, string role)
         {
             InitializeComponent();
-            lblWelcome.Text = "Welcome, " + username;  // عرض اسم المستخدم في الـ label
-            userRole = role;  // تعيين الدور بناءً على ما جاء من لوجين فور
+            lblWelcome.Text = "Welcome, " + username;  
+            userRole = role;  
         }
 
         //public MainDashboard(string role)
@@ -47,7 +47,7 @@ namespace ClinicAppointmentProject.Models
                 btn_managepatient.Visible = true;
                 btn_viewappointment.Visible = true;
                 btn_viewReports.Visible = true;
-                // أزرار إضافية للإدارة إذا كان الدور Admin
+              
             }
         }
 

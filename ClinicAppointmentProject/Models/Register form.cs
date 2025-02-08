@@ -27,7 +27,7 @@ namespace ClinicAppointmentProject.Models
         {
             try
             {
-                // Check if all fields are filled
+                
                 if (string.IsNullOrWhiteSpace(username_txt.Text) ||
                     string.IsNullOrWhiteSpace(pass_txt.Text) ||
                     string.IsNullOrWhiteSpace(passconfirm_txt.Text))
@@ -36,7 +36,7 @@ namespace ClinicAppointmentProject.Models
                     return;
                 }
 
-                // Check if passwords match
+               
                 if (pass_txt.Text != passconfirm_txt.Text)
                 {
                     MessageBox.Show("Passwords do not match!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -45,20 +45,20 @@ namespace ClinicAppointmentProject.Models
 
                 using (ClinicContext db = new ClinicContext())
                 {
-                    // Check if the username is already taken
+                    
                     if (db.Users.Any(u => u.Username == username_txt.Text))
                     {
                         MessageBox.Show("The username already exists! Please choose another one.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         return;
                     }
 
-                    // Create and save the new user
+                    
                     var newUser = new User
                     {
                         Username = username_txt.Text,
-                        Password = pass_txt.Text, // Storing the password as plain text
+                        Password = pass_txt.Text, 
                         Role = "Patient",
-                        Phone="0123456789"// Default role
+                        Phone="0123456789"
                     };
 
                     db.Users.Add(newUser);

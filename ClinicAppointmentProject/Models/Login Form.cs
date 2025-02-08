@@ -27,41 +27,41 @@ namespace ClinicAppointmentProject.Models
             string username = username_txt.Text.Trim();
             string password = pass_txt.Text.Trim();
 
-            // تحقق من صحة الإدخال
+            
             if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
             {
-                MessageBox.Show("يرجى إدخال اسم المستخدم وكلمة المرور", "خطأ", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("please enter user name and password", "error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
 
-            // الاتصال بقاعدة البيانات
+           
             using (var db = new ClinicContext())
             {
-                // البحث عن المستخدم
+               
                 var user = db.Users.FirstOrDefault(u => u.Username == username && u.Password == password);
 
                 if (user == null)
                 {
-                    // المستخدم غير موجود
+                   
                     MessageBox.Show("username or password are wrong", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
                 else
                 {
-                    // تحقق من نوع المستخدم وفتح الفورم المناسب
+                   
                     if (user.Role == "Admin" || user.Role == "Doctor")
                     {
-                        // فتح لوحة التحكم
+                        
                         MainDashboard dashboardForm = new MainDashboard(user.Username,user.Role);
                         dashboardForm.Show();
                     }
                     else if (user.Role == "Patient")
                     {
-                        // فتح نموذج حجز المواعيد
+                        
                         Book_Appointment_Form appointmentForm = new Book_Appointment_Form(userId);
                         appointmentForm.Show();
                     }
 
-                    // إخفاء نافذة تسجيل الدخول
+                   
                     this.Hide();
                 }
             }

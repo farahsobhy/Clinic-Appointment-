@@ -42,19 +42,17 @@ namespace ClinicAppointmentProject.Models
         {
             using (ClinicContext db = new ClinicContext())
             {
-                // حساب عدد المرضى المسجلين
+                
                 int totalPatients = db.Patients.Count();
                 lblTotalPatients.Text = $" Total: {totalPatients}";
 
-                // حساب عدد المواعيد المحجوزة
+                
                 int totalAppointments = db.Appointments.Count();
                 lblTotalAppiontments.Text = $"Total: {totalAppointments}";
 
-                // حساب عدد المواعيد المكتملة
                 int completedAppointments = db.Appointments.Count(a => a.Status == "Completed");
                 lblCompletedAppointments.Text = $"Completed: {completedAppointments}";
 
-                // إحصائيات الأطباء - عدد المواعيد لكل طبيب
                 var doctorStats = db.Appointments
                     .GroupBy(a => a.Doctor)
                     .Select(g => new

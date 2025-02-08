@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\show profile form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\show profile form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\show profile form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\show profile form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|E:\\ITI 4 mounth\\ClinicAppointmentProject\\clinicappointmentproject\\models\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|E:\\ITI 4 mounth\\ClinicAppointmentProject\\clinicappointmentproject\\models\\book appointment form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\book appointment form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\book appointment form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\book appointment form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\login form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\login form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\login form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\login form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|E:\\ITI 4 mounth\\ClinicAppointmentProject\\clinicappointmentproject\\models\\login form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\login form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\login form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\login form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\book appointment form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\book appointment form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|E:\\ITI 4 mounth\\ClinicAppointmentProject\\clinicappointmentproject\\models\\book appointment form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\book appointment form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\view appointment form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\view appointment form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|E:\\ITI 4 mounth\\ClinicAppointmentProject\\clinicappointmentproject\\models\\view appointment form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\view appointment form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\show profile form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\show profile form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|E:\\ITI 4 mounth\\ClinicAppointmentProject\\clinicappointmentproject\\models\\show profile form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\show profile form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|E:\\ITI 4 mounth\\ClinicAppointmentProject\\clinicappointmentproject\\models\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\register form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,16 +55,40 @@
       "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\register form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|E:\\ITI 4 mounth\\ClinicAppointmentProject\\clinicappointmentproject\\models\\manage patient forn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\manage patient forn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\register form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\register form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\manage patient forn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\manage patient forn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|E:\\ITI 4 mounth\\ClinicAppointmentProject\\clinicappointmentproject\\models\\manage patient forn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\manage patient forn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|E:\\ITI 4 mounth\\ClinicAppointmentProject\\clinicappointmentproject\\models\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\view appointment form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\view appointment form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\login form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\login form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,20 +102,8 @@
       "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\manage patient forn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\view appointment form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\view appointment form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\view appointment form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\view appointment form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\clinicappointmentproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\clinicappointmentproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|e:\\iti 4 mounth\\clinicappointmentproject\\clinicappointmentproject\\models\\manage patient forn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1116CE-43E7-4196-9A58-F9045824488C}|ClinicAppointmentProject\\ClinicAppointmentProject.csproj|solutionrelative:clinicappointmentproject\\models\\manage patient forn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\ClinicAppointmentProject.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -105,210 +125,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainDashboard.cs",
-              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\MainDashboard.cs",
-              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\MainDashboard.cs",
-              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\MainDashboard.cs",
-              "RelativeToolTip": "ClinicAppointmentProject\\Models\\MainDashboard.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T21:36:42.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Book Appointment Form.cs",
-              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Book Appointment Form.cs",
-              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Book Appointment Form.cs",
-              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Book Appointment Form.cs",
-              "RelativeToolTip": "ClinicAppointmentProject\\Models\\Book Appointment Form.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAAAIAAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T22:06:24.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Show Profile Form.cs [Design]",
-              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Show Profile Form.cs",
-              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Show Profile Form.cs",
-              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Show Profile Form.cs [Design]",
-              "RelativeToolTip": "ClinicAppointmentProject\\Models\\Show Profile Form.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T15:08:59.143Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\User.cs",
-              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\User.cs",
-              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\User.cs",
-              "RelativeToolTip": "ClinicAppointmentProject\\Models\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T21:13:04.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Login Form.cs",
-              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Login Form.cs",
-              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Login Form.cs",
-              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Login Form.cs",
-              "RelativeToolTip": "ClinicAppointmentProject\\Models\\Login Form.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T21:56:20.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Show Profile Form.cs",
-              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Show Profile Form.cs",
-              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Show Profile Form.cs",
-              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Show Profile Form.cs",
-              "RelativeToolTip": "ClinicAppointmentProject\\Models\\Show Profile Form.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAAC0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T15:09:00.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Register form.cs",
-              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Register form.cs",
-              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Register form.cs",
-              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Register form.cs",
-              "RelativeToolTip": "ClinicAppointmentProject\\Models\\Register form.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAewEcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T23:05:07.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login Form.Designer.cs",
-              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Login Form.Designer.cs",
-              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Login Form.Designer.cs",
-              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Login Form.Designer.cs",
-              "RelativeToolTip": "ClinicAppointmentProject\\Models\\Login Form.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T00:23:22.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Patient.cs",
-              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Patient.cs",
-              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Patient.cs",
-              "RelativeToolTip": "ClinicAppointmentProject\\Models\\Patient.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T21:13:20.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Appointment.cs",
-              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Appointment.cs",
-              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Appointment.cs",
-              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Appointment.cs",
-              "RelativeToolTip": "ClinicAppointmentProject\\Models\\Appointment.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T21:14:51.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAK4UAAAAAAAAAAAIwMkUAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-02-05T23:46:39.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Manage Patient forn.Designer.cs",
-              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Manage Patient forn.Designer.cs",
-              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Manage Patient forn.Designer.cs",
-              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Manage Patient forn.Designer.cs",
-              "RelativeToolTip": "ClinicAppointmentProject\\Models\\Manage Patient forn.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T21:31:57.414Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "View Appointment Form.Designer.cs",
-              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\View Appointment Form.Designer.cs",
-              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\View Appointment Form.Designer.cs",
-              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\View Appointment Form.Designer.cs",
-              "RelativeToolTip": "ClinicAppointmentProject\\Models\\View Appointment Form.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T20:30:39.72Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "View Appointment Form.cs",
               "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\View Appointment Form.cs",
               "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\View Appointment Form.cs",
               "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\View Appointment Form.cs",
               "RelativeToolTip": "ClinicAppointmentProject\\Models\\View Appointment Form.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCEAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T20:29:57.813Z"
+              "WhenOpened": "2025-02-05T20:29:57.813Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ClinicAppointmentProject.csproj.user",
-              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\ClinicAppointmentProject.csproj.user",
-              "RelativeDocumentMoniker": "ClinicAppointmentProject\\ClinicAppointmentProject.csproj.user",
-              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\ClinicAppointmentProject.csproj.user",
-              "RelativeToolTip": "ClinicAppointmentProject\\ClinicAppointmentProject.csproj.user",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Program.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Program.cs",
+              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Program.cs",
+              "RelativeToolTip": "ClinicAppointmentProject\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2025-02-05T20:43:20.065Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ClinicAppointmentProject.csproj",
-              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\ClinicAppointmentProject.csproj",
-              "RelativeDocumentMoniker": "ClinicAppointmentProject\\ClinicAppointmentProject.csproj",
-              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\ClinicAppointmentProject.csproj",
-              "RelativeToolTip": "ClinicAppointmentProject\\ClinicAppointmentProject.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-03T21:12:40.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Manage Patient forn.cs",
-              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Manage Patient forn.cs",
-              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Manage Patient forn.cs",
-              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Manage Patient forn.cs",
-              "RelativeToolTip": "ClinicAppointmentProject\\Models\\Manage Patient forn.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T23:52:23.708Z",
+              "WhenOpened": "2025-02-08T12:30:44.722Z",
               "EditorCaption": ""
             },
             {
@@ -320,55 +158,310 @@
               "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Book Appointment Form.cs [Design]",
               "RelativeToolTip": "ClinicAppointmentProject\\Models\\Book Appointment Form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T16:21:10.393Z"
+              "WhenOpened": "2025-02-07T16:21:10.393Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainDashboard.cs [Design]",
-              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\MainDashboard.cs",
-              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\MainDashboard.cs",
-              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\MainDashboard.cs [Design]",
-              "RelativeToolTip": "ClinicAppointmentProject\\Models\\MainDashboard.cs [Design]",
+              "Title": "Book Appointment Form.cs",
+              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Book Appointment Form.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Book Appointment Form.cs",
+              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Book Appointment Form.cs",
+              "RelativeToolTip": "ClinicAppointmentProject\\Models\\Book Appointment Form.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAEsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T20:43:37.283Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "WhenOpened": "2025-02-05T22:06:24.135Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Login Form.cs [Design]",
               "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Login Form.cs",
               "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Login Form.cs",
               "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Login Form.cs [Design]",
               "RelativeToolTip": "ClinicAppointmentProject\\Models\\Login Form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T21:55:08.617Z"
+              "WhenOpened": "2025-02-03T21:55:08.617Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login Form.cs",
+              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Login Form.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Login Form.cs",
+              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Login Form.cs",
+              "RelativeToolTip": "ClinicAppointmentProject\\Models\\Login Form.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:56:20.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "View Appointment Form.cs [Design]",
+              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\View Appointment Form.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\View Appointment Form.cs",
+              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\View Appointment Form.cs [Design]",
+              "RelativeToolTip": "ClinicAppointmentProject\\Models\\View Appointment Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T12:30:51.956Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Show Profile Form.cs",
+              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Show Profile Form.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Show Profile Form.cs",
+              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Show Profile Form.cs",
+              "RelativeToolTip": "ClinicAppointmentProject\\Models\\Show Profile Form.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAEMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:09:00.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Show Profile Form.cs [Design]",
+              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Show Profile Form.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Show Profile Form.cs",
+              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Show Profile Form.cs [Design]",
+              "RelativeToolTip": "ClinicAppointmentProject\\Models\\Show Profile Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:08:59.143Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportsForm.cs",
+              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\ReportsForm.cs",
+              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\ReportsForm.cs",
+              "RelativeToolTip": "ClinicAppointmentProject\\Models\\ReportsForm.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T12:31:14.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "ReportsForm.cs [Design]",
+              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\ReportsForm.cs",
+              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\ReportsForm.cs [Design]",
+              "RelativeToolTip": "ClinicAppointmentProject\\Models\\ReportsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T12:31:12.449Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register form.cs",
+              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Register form.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Register form.cs",
+              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Register form.cs",
+              "RelativeToolTip": "ClinicAppointmentProject\\Models\\Register form.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:05:07.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Register form.cs [Design]",
               "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Register form.cs",
               "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Register form.cs",
               "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Register form.cs [Design]",
               "RelativeToolTip": "ClinicAppointmentProject\\Models\\Register form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T23:00:27.082Z"
+              "WhenOpened": "2025-02-03T23:00:27.082Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
+              "Title": "Register form.Designer.cs",
+              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Register form.Designer.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Register form.Designer.cs",
+              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Register form.Designer.cs",
+              "RelativeToolTip": "ClinicAppointmentProject\\Models\\Register form.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T12:53:16.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Manage Patient forn.cs [Design]",
               "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Manage Patient forn.cs",
               "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Manage Patient forn.cs",
               "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Manage Patient forn.cs [Design]",
               "RelativeToolTip": "ClinicAppointmentProject\\Models\\Manage Patient forn.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T12:02:30.331Z"
+              "WhenOpened": "2025-02-06T12:02:30.331Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainDashboard.cs",
+              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\MainDashboard.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\MainDashboard.cs",
+              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\MainDashboard.cs",
+              "RelativeToolTip": "ClinicAppointmentProject\\Models\\MainDashboard.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAADEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:36:42.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainDashboard.cs [Design]",
+              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\MainDashboard.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\MainDashboard.cs",
+              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\MainDashboard.cs [Design]",
+              "RelativeToolTip": "ClinicAppointmentProject\\Models\\MainDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:43:37.283Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Manage Patient forn.cs",
+              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Manage Patient forn.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Manage Patient forn.cs",
+              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Manage Patient forn.cs",
+              "RelativeToolTip": "ClinicAppointmentProject\\Models\\Manage Patient forn.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAE4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T23:52:23.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Patient.cs",
+              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Patient.cs",
+              "RelativeToolTip": "ClinicAppointmentProject\\Models\\Patient.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:13:20.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "View Appointment Form.Designer.cs",
+              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\View Appointment Form.Designer.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\View Appointment Form.Designer.cs",
+              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\View Appointment Form.Designer.cs",
+              "RelativeToolTip": "ClinicAppointmentProject\\Models\\View Appointment Form.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:30:39.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login Form.Designer.cs",
+              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Login Form.Designer.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Login Form.Designer.cs",
+              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Login Form.Designer.cs",
+              "RelativeToolTip": "ClinicAppointmentProject\\Models\\Login Form.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T00:23:22.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\User.cs",
+              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\User.cs",
+              "RelativeToolTip": "ClinicAppointmentProject\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:13:04.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Appointment.cs",
+              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Appointment.cs",
+              "RelativeToolTip": "ClinicAppointmentProject\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:14:51.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAK4UAAAAAAAAAAAIwMkUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-05T23:46:39.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Manage Patient forn.Designer.cs",
+              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Manage Patient forn.Designer.cs",
+              "RelativeDocumentMoniker": "ClinicAppointmentProject\\Models\\Manage Patient forn.Designer.cs",
+              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\Models\\Manage Patient forn.Designer.cs",
+              "RelativeToolTip": "ClinicAppointmentProject\\Models\\Manage Patient forn.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:31:57.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClinicAppointmentProject.csproj.user",
+              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\ClinicAppointmentProject.csproj.user",
+              "RelativeDocumentMoniker": "ClinicAppointmentProject\\ClinicAppointmentProject.csproj.user",
+              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\ClinicAppointmentProject.csproj.user",
+              "RelativeToolTip": "ClinicAppointmentProject\\ClinicAppointmentProject.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-02-05T20:43:20.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClinicAppointmentProject.csproj",
+              "DocumentMoniker": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\ClinicAppointmentProject.csproj",
+              "RelativeDocumentMoniker": "ClinicAppointmentProject\\ClinicAppointmentProject.csproj",
+              "ToolTip": "E:\\ITI 4 mounth\\ClinicAppointmentProject\\ClinicAppointmentProject\\ClinicAppointmentProject.csproj",
+              "RelativeToolTip": "ClinicAppointmentProject\\ClinicAppointmentProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T21:12:40.429Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }

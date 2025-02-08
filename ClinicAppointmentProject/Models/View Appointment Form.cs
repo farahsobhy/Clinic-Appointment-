@@ -35,7 +35,7 @@ namespace ClinicAppointmentProject.Models
                     .Select(a => new
                     {
                         a.Id,
-                        PatientName = a.Patient.Name,  // تعديل الاسم ليكون واضحًا
+                        PatientName = a.Patient.Name,  
                         a.AppointmentDate,
                         a.Doctor
                     })

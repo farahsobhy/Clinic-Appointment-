@@ -32,8 +32,8 @@ namespace ClinicAppointmentProject.Models
         {
             using (ClinicContext db = new ClinicContext())
             {
-                var patients = db.Patients.ToList(); // Get all patients from database
-                dgv_patient.DataSource = patients; // Set data source of DataGridView
+                var patients = db.Patients.ToList(); 
+                dgv_patient.DataSource = patients; 
             }
         }
         private void dgv_patient_RowHeaderMouseDoubleClick(object sender, DataGridViewCellMouseEventArgs e)
@@ -60,8 +60,8 @@ namespace ClinicAppointmentProject.Models
                     Phone = txt_phone.Text
                 };
                 db.Patients.Add(newPatient);
-                db.SaveChanges(); // Save new patient to database
-                LoadPatients(); // Reload patients list
+                db.SaveChanges(); 
+                LoadPatients(); 
                 MessageBox.Show("Patient Added!");
             }
         }
@@ -76,8 +76,8 @@ namespace ClinicAppointmentProject.Models
                     patient.Name = txt_name.Text;
                     patient.Age = Convert.ToInt32(txt_age.Text);
                     patient.Phone = txt_phone.Text;
-                    db.SaveChanges(); // Update patient in database
-                    LoadPatients(); // Reload patients list
+                    db.SaveChanges(); 
+                    LoadPatients(); 
                     MessageBox.Show("Patient Updated!");
                 }
             }
@@ -97,8 +97,8 @@ namespace ClinicAppointmentProject.Models
                 if (patient != null)
                 {
                     db.Patients.Remove(patient);
-                    db.SaveChanges(); // Delete patient from database
-                    LoadPatients(); // Reload patients list
+                    db.SaveChanges(); 
+                    LoadPatients(); 
                     MessageBox.Show("Patient Deleted!");
                 }
             }
